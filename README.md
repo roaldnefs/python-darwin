@@ -12,4 +12,4 @@ pip install git+https://github.com/roaldnefs/python-darwin.git
 
 ## Acknowledgements
 
-Darwin data for this Python package is accessed through the [duitseherder.nl](https://duitseherder.nl/leden/darwin). The data itself is owned and maintained by the [VDH](https://duitseherder.nl/) ([Vereniging Duitse Herder](https://duitseherder.nl/)).
+Darwin data for this Python package is accessed through the [duitseherder.nl](https://duitseherder.nl/leden/darwin). The copyright of the data remains with the author [VDH](https://duitseherder.nl/) ([Vereniging Duitse Herder](https://duitseherder.nl/)).
