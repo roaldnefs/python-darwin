@@ -21,11 +21,12 @@ def main():
         sys.exit(0)
 
     parser = _get_parser(add_help=False)
-    args = parser.parse_args()
 
     if "--help" in sys.argv or "-h" in sys.argv:
-        parser.print(help)
+        parser.print_help()
         sys.exit(0)
+
+    args = parser.parse_args()
 
     # Initialize a new Darwin client
     client = Darwin()
